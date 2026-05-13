@@ -41,3 +41,4 @@ Thumbs.db
 # Course/reference PDFs should not be committed.
 # Keep generated report PDFs unignored unless we decide otherwise later.
 Slide/*.pdf
+Doc/*.tex
