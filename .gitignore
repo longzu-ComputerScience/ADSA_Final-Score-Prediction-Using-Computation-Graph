@@ -1,0 +1,43 @@
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.xdv
+
+# Office temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Course/reference PDFs should not be committed.
+# Keep generated report PDFs unignored unless we decide otherwise later.
+Slide/*.pdf
